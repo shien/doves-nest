@@ -11,5 +11,9 @@
     <el-menu-item index="3" :route="{ path: '/artifacts/' }">
       Artifacts
     </el-menu-item>
+
+    <el-menu-item index="4" :route="{ path: '/skillset/' }">
+      SkillSet
+    </el-menu-item>
   </el-menu>
 </template>
